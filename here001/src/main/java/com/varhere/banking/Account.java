@@ -7,6 +7,7 @@ package com.varhere.banking;
 public class Account {
 	protected String accountNum;
 	protected double balance;
+	private String nada;
 	
 	public void deposite(double amount) {
 		this.balance += amount;
