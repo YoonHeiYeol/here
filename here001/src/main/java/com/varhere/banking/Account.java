@@ -12,6 +12,4 @@ public class Account {
 	public void deposite(double amount) {
 		this.balance += amount;
 	}
-	///adasdasdasd
-	//sfsadfsadfsadfsad;
 }
